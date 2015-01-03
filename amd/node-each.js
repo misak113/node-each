@@ -1,0 +1,4 @@
+
+define('each', function () {
+	// TODO
+});
