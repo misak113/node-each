@@ -1,0 +1,24 @@
+{
+  "name": "each",
+  "description": "Chained and parallel async iterator in one elegant function",
+  "main": "amd/node-each.js",
+  "version": "0.4.9",
+  "homepage": "http://www.adaltas.com/projects/node-each/",
+  "authors": [
+    "Michael Zabka <zabka.michael@gmail.com>"
+  ],
+  "keywords": [
+    "each",
+    "async",
+    "node-each",
+    "parallel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
